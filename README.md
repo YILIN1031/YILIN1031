@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**daily tools**: **[regular expressions tutorial](https://regexone.com/)** / **[git docs](https://git-scm.com/doc)** / **[algorithm visual](https://visualgo.net/en)** / **[Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/)** / ......
+**daily tools**: 
+* **[regular expressions tutorial](https://regexone.com/)**
+* **[git docs](https://git-scm.com/doc)**
+* **[algorithm visual](https://visualgo.net/en)**
+* **[Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/)**
+* **[Visual Studio Code](https://code.visualstudio.com/docs)** 
+* ......
 
