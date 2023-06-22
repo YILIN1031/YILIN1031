@@ -15,17 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**daily tools**: 
+**Some resources**: 
 * **[regular expressions tutorial](https://regexone.com/)**
-* **[git docs](https://git-scm.com/doc)**
-* **[algorithm visual](https://visualgo.net/en)**
-    > Reference books:
-    > 
-    > **[Algorithms, 4th](https://algs4.cs.princeton.edu/home/)** , **[Date structure in Python](https://runestone.academy/ns/books/published/pythonds/index.html)**
-    > 
-    > Other:
-    > 
-    > **[Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)**
+* **[git docs](https://git-scm.com/doc)** 
+* **[algorithm visual](https://visualgo.net/en)**, **[Algorithms (4th)](https://algs4.cs.princeton.edu/home/)**, **[Date structure in Python](https://runestone.academy/ns/books/published/pythonds/index.html)**, **[Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)**
 * **[Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/)**
 * **[Visual Studio Code](https://code.visualstudio.com/docs)** 
 * ......
